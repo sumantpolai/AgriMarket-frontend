@@ -89,7 +89,7 @@ function Home() {
                   <span className='md:text-[24px] text-[12px] font-[500]'>What are the benefits of using AgriMarket?</span>
                   <img src="/downarrow.png" alt="downarrow" className='invert filter h-3 w-3 md:h-6 md:w-6' />
                 </div>
-                <span className='text-[10px] sm:text-base'>AgriMarket allows you to connect directly with local farmers, ensuring you get the freshest produce available. By buying directly from farmers, you support sustainable agriculture and can often find better prices than in traditional grocery stores.</span>
+                <span className='text-[10px] sm:text-base'>AgriMarket allows you to connect directly with local farmers   ensuring you get the freshest produce available. By buying directly from farmers, you support sustainable agriculture and can often find better prices than in traditional grocery stores.</span>
               </div>
               {/* q2 */}
               <div className='flex flex-col h-[40px]  gap-5 cursor-pointer md:w-[70%] w-[80%] overflow-hidden hover:h-[140px] transition-all duration-500 ease-in-out border-b border-[#b0b0b0]'>

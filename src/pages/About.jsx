@@ -61,7 +61,7 @@ function About() {
                         </div>
                         <h3 className="mt-6 text-gray-400">High Performance</h3>
                         <p className="my-4 mb-0 font-normal leading-relaxed tracking-wide text-gray-400">
-                            Our platform is optimized for fast performance, ensuring your product listings load quickly and are easily accessible to customers.
+                            Our platform is optimized for fast performance ensuring your product listings load quickly and are easily accessible to customers.
                         </p>
                     </div>
                     <div className="rounded-md border border-neutral-800 bg-neutral-900/50 p-8 text-center shadow">

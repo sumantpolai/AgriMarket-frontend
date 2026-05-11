@@ -20,18 +20,18 @@ function Footer() {
           </div>
         </div>
         <div className='flex flex-col gap-2 items-center'>
-          <span>Follow Me On</span>
+          <span>Follow Shaswata, Subham, Pratyush On</span>
           <div className='flex gap-4'>
-            <a href="https://www.instagram.com/polaisumant_/" target="_blank" rel="noopener noreferrer">
+            <a href="#" target="_blank" rel="noopener noreferrer">
               <img src="/insta.gif" alt="insta" className='w-[25px] h-[25px]' />
             </a>
-            <a href="https://www.facebook.com/polaisumant" target="_blank" rel="noopener noreferrer">
+            <a href="#t" target="_blank" rel="noopener noreferrer">
               <img src="/facebook.gif" alt="facebook" className='w-[25px] h-[25px]' />
             </a>
-            <a href="https://www.linkedin.com/in/sumanta-kumar-polai-b52514251/" target="_blank" rel="noopener noreferrer">
+            <a href="#" target="_blank" rel="noopener noreferrer">
               <img src="/linkedin.gif" alt="linkedin" className='w-[25px] h-[25px]' />
             </a>
-            <a href="https://github.com/sumantpolai" target="_blank" rel="noopener noreferrer">
+            <a href="#" target="_blank" rel="noopener noreferrer">
               <img src="/github.gif" alt="github" className='w-[25px] h-[25px]' />
             </a>
           </div>

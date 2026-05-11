@@ -10,7 +10,7 @@ function Footer() {
         <div className='flex gap-4 flex-col'>
           <div>
             <p>Copyright &copy; {currentYear}-{currentYear + 1} AgriMarket | All rights reserved!</p>
-            <p>Made by Sumanta with ❤</p>
+            <p>Made by Shaswata, Subham, Pratyush with ❤</p>
           </div>
           <div className='flex gap-4 sm:justify-normal justify-center'>
             < Link to={'/about'}  className='hover:underline underline sm:no-underline'>About</ Link>
